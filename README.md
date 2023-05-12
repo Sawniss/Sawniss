@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sawniss
+- 👋 Hi, I’m Sanish Bhandari
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on (IDK interesting stuffs)
